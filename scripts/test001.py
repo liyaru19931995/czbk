@@ -6,5 +6,5 @@ class TestJen:
         assert True
 
     def test_02(self):
-        print('test01-----')
+        print('test02-----')
         assert False
